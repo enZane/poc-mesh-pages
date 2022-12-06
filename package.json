@@ -1,0 +1,17 @@
+{
+  "name": "poc-mesh-pages",
+  "version": "1.0.0",
+  "description": "GraphQL mesh running on Cloudflare pages",
+  "main": "index.js",
+  "author": "Zane",
+  "license": "MIT",
+  "scripts": {
+    "start": "mesh dev",
+    "build": "mesh build"
+  },
+  "dependencies": {
+    "@graphql-mesh/cli": "^0.80.4",
+    "@graphql-mesh/graphql": "^0.32.4",
+    "graphql": "^16.6.0"
+  }
+}

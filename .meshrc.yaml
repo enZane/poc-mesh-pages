@@ -1,0 +1,5 @@
+sources:
+  - name: Pokemon
+    handler:
+      graphql:
+        endpoint: https://beta.pokeapi.co/graphql/v1beta

@@ -6,7 +6,7 @@
   "author": "Zane",
   "license": "MIT",
   "scripts": {
-    "start": "mesh dev",
+    "start": "mesh start",
     "build": "mesh build"
   },
   "dependencies": {
